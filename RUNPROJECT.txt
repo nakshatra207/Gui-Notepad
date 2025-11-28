@@ -1,0 +1,14 @@
+chmod +x setup_super_notepad.sh
+./setup_super_notepad.sh
+
+
+type this command in your linux terminal 
+library required in c++ qt library in order to run this project
+to install qt library in your linux terminal
+sudo apt update
+sudo apt install qtbase5-dev qt5-qmake build-essential
+After That paste this command to run the project
+chmod +x setup_super_notepad.sh
+./setup_super_notepad.sh
+
+
